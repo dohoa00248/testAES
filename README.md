@@ -30,4 +30,4 @@ The GUI is designed with Java Swing, allowing users to easily select files, set 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/aes-encryption-tool.git
+   git clone https://github.com/dohoa00248/testAES.git
