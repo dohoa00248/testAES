@@ -22,7 +22,8 @@ The GUI is designed with Java Swing, allowing users to easily select files, set 
 - Java 8+
 - Java Swing (for GUI)
 - AES Algorithm (via referenced source code)
-- File I/O handling
+- Developed a Java Swing GUI tool to encrypt/decrypt text using AES.  
+Handled text input/output directly via interface without file operations.
 
 ---
 
